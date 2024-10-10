@@ -30,5 +30,5 @@ Não há banco de dados. Os dados são carregados de 2 arquivos que contém arra
 
 
 <div align="center">
-  <small>Gabriel Alves Batidta - 2024</small>
+  <small>Gabriel Alves Batista - 2024</small>
 </div>
